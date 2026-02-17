@@ -67,7 +67,8 @@
 
 ## To do
 - Jenkins
-- Containerization (Docker, Kubernetes)
+- Containerization Tools
+- Container Orchestration Tools
 - ArgoCD
 - GitHub Action
 - Terraform
