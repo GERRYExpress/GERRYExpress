@@ -67,10 +67,8 @@
 
 ## To do
 - Jenkins
-- Containerization Tools
 - Container Orchestration Tools
 - ArgoCD
-- GitHub Action
 - Terraform
 - Ansible
 </div>
