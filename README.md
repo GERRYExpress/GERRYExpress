@@ -1,36 +1,6 @@
   <h1>👋👋👋 Hi, welcome to my GitHub profile 👋👋👋</h1>
   <blockquote>A Software Engineering student who has passion learning about DevOps including CI/CD pipeline, automate tasks for facilitating the development, testing, and deployment operations. </blockquote>
   
-  <!--
-  <h2>🌐🌐 Programming Languages 🌐🌐</h2>
-  <ul>
-    <li>Java</li>
-    <li>JavaScript/TypeScript</li>
-    <li>C#</li>
-  </ul>
-  <h2>✨✨ Skills ✨✨</h2>
-  <ul>
-    <li>Time Management</li>
-    <li>Object-Oriented Programming</li>
-    <li>Relational Database Design</li>
-    <li>Dynamic Programming</li>
-    <li>Linux Bash</li>
-  </ul>  
-  <h2>⚙️⚙️ Tools/Frameworks ⚙️⚙️</h2>
-  <ul>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    <li>Postman</li>
-    <li>Fork</li>
-    <li>JavaFX</li>
-    <li>SceneBuilder</li>
-    <li>React</li>
-    <li>Java Swing</li>
-    <li>NodeJS & Express</li>
-    <li>Linux</li>
-    <li>Google Cloud</li>
-  </ul>
-  -->
 <div>
   <div>
     <h2>Programming Language</h2>
@@ -62,6 +32,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Nodejs-Nodejs?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&color=%238F4EA0">
   <img alt="Static Badge" src="https://img.shields.io/badge/express-express?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-Linux?style=for-the-badge&logo=Ubuntu&logoColor=%2320B5E9&color=%23E95420">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-AWS?style=for-the-badge&logo=amazon-aws&logoColor=white&color=%23232F3E">
   <img alt="Static Badge" src="https://img.shields.io/badge/Google_Cloud-Google_Cloud?style=for-the-badge&logo=Google%20Cloud&logoColor=%234285F4&color=%23F4B142">
 </div>
 
