@@ -5,7 +5,6 @@
   <div>
     <h2>Programming Language</h2>
     <p>
-      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css&logoColor=%23F47F0B&color=%230B80F4">
       <img alt="Static Badge" src="https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=java&logoColor=%2315E4EA&color=%23EA1B15">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JavaScript?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&color=%231E36F7">
       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=TypeScript&logoColor=%23C67F31&color=%233178C6">
