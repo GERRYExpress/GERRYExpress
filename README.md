@@ -16,6 +16,7 @@
 - Object-Oriented Programming
 - Relational Database Design
 - Dynamic Programming
+- GoF Design Patterns
 - Linux Bash
 
 <div>
