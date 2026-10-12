@@ -1,6 +1,6 @@
-  <h1>👋👋👋 Hi, welcome to my GitHub profile 👋👋👋</h1>
-  <blockquote>A Software Engineering student who has passion learning about DevOps including CI/CD pipeline, automate tasks for facilitating the development, testing, and deployment operations. </blockquote>
-  
+<h1>👋👋👋 Hi, welcome to my GitHub profile 👋👋👋</h1>
+<blockquote>A Software Engineering student who has passion learning about DevOps including CI/CD pipeline, automate tasks for facilitating the development, testing, and deliver the high quality software product. </blockquote>
+
 <div>
   <div>
     <h2>Programming Language</h2>
@@ -8,9 +8,10 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=java&logoColor=%2315E4EA&color=%23EA1B15">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JavaScript?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&color=%231E36F7">
       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=TypeScript&logoColor=%23C67F31&color=%233178C6">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Go-Go?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8">
     </p>
   </div>
-    
+
 ## Skills
 - Time Management
 - Object-Oriented Programming
@@ -21,13 +22,17 @@
 
 <div>
   <h2>Tools/Frameworks</h2>
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Postgresql-PostgreSQL?style=for-the-badge&logo=PostgreSQL&logoColor=%23E1B941&color=%234169E1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-Supabase?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E">
   <img alt="Static Badge" src="https://img.shields.io/badge/Postman-Postman?style=for-the-badge&logo=Postman&logoColor=%23FF6C37&color=%2337CAFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Fork-Fork?style=for-the-badge&logo=Git&logoColor=%231A9EE5&color=%23E5611A">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaFX-JavaFX?style=for-the-badge&logo=JavaFX&logoColor=2315E4EA&color=2315E4EA">
   <img alt="Static Badge" src="https://img.shields.io/badge/SceneBuilder-SceneBuilder?style=for-the-badge&logo=SceneBuilder&logoColor=%23FFC500&color=%23003AFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-React?style=for-the-badge&logo=React&logoColor=%2361DAFB&color=%23FB8261">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=for-the-badge&logo=springboot&logoColor=white&color=%236DB33F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gin-Gin?style=for-the-badge&logo=go&logoColor=white&color=%23008ECF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java_Swing-Java_Swing?style=for-the-badge&logoColor=%23DEF7FE&color=%23FEE5DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Nodejs-Nodejs?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&color=%238F4EA0">
   <img alt="Static Badge" src="https://img.shields.io/badge/express-express?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
